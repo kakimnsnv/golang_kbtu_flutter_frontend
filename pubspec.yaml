@@ -1,0 +1,62 @@
+name: golang_kbtu_flutter_frontend
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  get_it: ^8.0.2
+  dio: ^5.7.0
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^4.0.0
+  json_serializable: ^6.9.0
+  build_runner: ^2.4.13
+
+flutter:
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
